@@ -128,7 +128,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 
 ## Project File
 
-The full data analysis, feature selection steps, model training, evaluation, and SHAP interpretation are available in [`eda - Kopya.ipynb`](./eda%20-%20Kopya.ipynb).
+The full data analysis, feature selection steps, model training, evaluation, and SHAP interpretation are available in [`customer_churn_feature_selection.ipynb`](./customer_churn_feature_selection.ipynb)
 
 ## Author
 
